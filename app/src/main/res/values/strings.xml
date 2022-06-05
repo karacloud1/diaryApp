@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Günlüğüm</string>
+    <string name="settings">Ayarlar</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_title">Başlık</string>
+    <string name="enter_note_here">Düşüncelerinizi yazın</string>
+    <string name="action_bar_delete">Sil</string>
+    <string name="action_bar_save">Kaydet</string>
+    <string name="note_description">Günlük açıklaması</string>
+    <string name="string_note_deleted">Günlük silindi</string>
+    <string name="snack_bar_undo">Geri al</string>
+    <string name="logout">Çıkış</string>
+    <string name="explore">Keşfet</string>
+</resources>
